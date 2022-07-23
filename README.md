@@ -1,6 +1,6 @@
 # About Invoicer - Read the note at the end
 
-#### https://invoicerv2.netlify.app
+#### https://cbplatinum.netlify.app
 
 ![alt](./Screenshot.png)
 
